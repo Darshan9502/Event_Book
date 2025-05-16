@@ -33,7 +33,7 @@ const Header = () => {
 
           {/* Right side - Login button and hamburger icon */}
           <div className="header-right">
-            <button className="login-button">Login</button>
+            <button className="login-button">LogOUT</button>
             <div className="hamburger" onClick={toggleSidebar}>
               <span className="hamburger-line"></span>
               <span className="hamburger-line"></span>
